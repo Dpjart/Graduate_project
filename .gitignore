@@ -1,0 +1,20 @@
+# MATLAB raw data / figures (regenerate with run_rov_experiments)
+*.mat
+*.fig
+
+# MATLAB autosave / editor
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+
+# Videos rendered into results/ by make_rov_video (published copies live in videos/)
+results/*.mp4
+results/*_preview.png
+
+# OS / LibreOffice
+.DS_Store
+Thumbs.db
+desktop.ini
+.~lock.*#

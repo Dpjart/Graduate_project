@@ -1,0 +1,4 @@
+* text=auto
+*.m   text diff=matlab linguist-language=MATLAB
+*.png binary
+*.mp4 binary
